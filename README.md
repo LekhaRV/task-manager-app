@@ -35,4 +35,5 @@ This app allows users to create, edit, complete, and manage tasks with deadlines
 - Global exception handling (`@ControllerAdvice`)
 
 ---
-
+## Author
+Lekha R Varier
