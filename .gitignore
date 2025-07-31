@@ -1,0 +1,18 @@
+# Frontend
+/frontend/node_modules
+/frontend/build
+
+# Backend
+/backend/target
+
+# IDE and system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs
+*.log
+
+# Env files
+.env
