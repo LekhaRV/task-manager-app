@@ -36,25 +36,3 @@ This app allows users to create, edit, complete, and manage tasks with deadlines
 
 ---
 
-## 📁 Project Structure
-task-manager-app/
-│
-├── frontend/ # React Frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── api/
-│ │ ├── components/
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── package.json
-│
-└── backend/ # Spring Boot Backend
-├── src/main/java/
-│ └── com/example/demo/
-│ ├── controller/
-│ ├── model/
-│ ├── service/
-│ ├── repository/
-│ └── exception/
-├── src/main/resources/
-├── pom.xml
